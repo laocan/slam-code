@@ -1,0 +1,14 @@
+slam-code
+=========
+
+Simultaneous Localization and mapping
+
+compile slam code
+and run the executble by
+./slam -p loop5.log
+or
+if you had to run this algorithm on robot , then type
+./slam
+but before doing this plot your controls in ThisRobot.h and ThisRobot.cpp file
+and then compile and execute ./slam
+
